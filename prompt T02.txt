@@ -1,0 +1,22 @@
+Paula Gevriella Tambunan
+12S24025
+
+PROMPT CHAT GPT
+1. Clue: deret,harus tahu polanya,ada nama laki laki dan perempuan,lalu ada deret nilai. 
+Masukkan berapa total data,lalu masukkan deret nilai nya,dan berikan kode kelompok siswa(apakah dia kelompok perempuan atau laki laki).
+2. Untuk outputnya,adalah total nilai dari kelompok yang nanti nya saya minta.
+Contoh,saya masukkan kelompok mahasiswi,maka yang keluar adalah total nilai semua mahasiswi,sesuai dengan inputan data yang nantinya saya berikan. Bukan kode mahasiswa yang menjadi output nya,kode mahasiswa masih merupan input
+3. Tolong buat implementasi nya dalam bahasa java
+4. public class Driver2 {
+    
+} 
+gunakan header ini,lalu sesuaikan dengan gambar sebelumnya,data yang dipakai hanya berdasarkan gambar sebelumnya. 
+Yakni 4 mahasiswa,2 laki laki dan 2 perempuan.
+5. Tolong buatkan dengan menggunakan array
+6. Buatkan kode nya,yang bisa menerima totaal data,yakni 4,kemudian deret nilai nya,dan terkahir kelompok nya,apakah dia laki laki atau perempuan
+
+
+
+
+
+ 
