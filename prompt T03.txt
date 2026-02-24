@@ -1,0 +1,21 @@
+Paula Gevriella Tambunan
+12S24025
+
+PROMPT CHAT GPT
+1. Saya akan membuat sebuah sistem yang dapat mendukung operasional sehari hari di IT Del. 
+Tolong berikan beberapa referensi
+2. Admin akan memberikan input berupa nama,tanggal pengantaran laundry,dan tanggal pengambilan laundry dan nim mahasiswa. Selanjutnya,admin akan memberikan input,yang bertujuan untuk mengetahui apakah pakaian tersebut sudah diproses atau belum,dengan memberikan input berupa Done. Jika pakaian sudah diproses maka program akan menampilkan 
+ jumlah pakaian yang sudah diketegorikan ke dalam kemeja,kaos berkerah,dress,dan celana.Namun jika belum selesai maka program akan menampilkan output berupa pesan still on process. 
+Jika tanggal pengambilan laundry lewat sebanyak 3 hari dari tanggal pengantaran maka,laundry masih diproses. 
+Namun jika tanggal pengambilan laundry tepat 3 hari,maka laundry sudah selesai.
+3. tolong buatkan dalam kode program bahasa java,sertakan contoh input dan output nya,sesuai dengan sistem yang saya paparkan di atas
+4. public class Driver3 {
+    
+}
+Gunakan header berikut
+
+
+
+
+
+
